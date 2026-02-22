@@ -40,7 +40,7 @@ Answer: 30
 1. Open your terminal and navigate to the project folder.
 2. Run the program:
 ```
-python calculator.py
+python calc.py
 ```
 3. Follow the prompts to input numbers and choose an operation.
 
@@ -51,4 +51,5 @@ Contributions are welcome! You can:
 - Enhance terminal UI for a smoother experience.
 
 ## License
+
 This project is open-source and free to use.`
