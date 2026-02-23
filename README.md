@@ -1,4 +1,4 @@
-`# Terminal Calculator with Step-by-Step Solution
+# Terminal Calculator with Step-by-Step Solution
 
 ## Overview
 This is a terminal-based calculator that lets users input multiple numbers, select an operation, and then displays both the **step-by-step working** and the **final answer**. Ideal for understanding how calculations are performed.
@@ -53,3 +53,4 @@ Contributions are welcome! You can:
 ## License
 
 This project is open-source and free to use.`
+
